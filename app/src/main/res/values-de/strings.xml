@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cicloDeVida</string>
+    <string name="saludo">Hallo Welt</string>
+    <string name="my_button_text">Drück den Knopf</string>
+    <string name="seg_act">Die App war: </string>
+</resources>
